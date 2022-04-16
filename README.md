@@ -1,0 +1,1 @@
+##How to read and  write the content of a file using Kotlin.
